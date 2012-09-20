@@ -1,3 +1,35 @@
+                                   Adarsh Pandit
+                               adarsh@thoughtbot.com
+                                     developer
+                                     @adarshp
+
+                      MMMMMMMMMMMMOZOOOOOOOOOOOOOMMMMMMMMMMMMM
+                      MMMMMMMMMOZOOOOOOOOOOOOOOOOOZOMMMMMMMMMM
+                      MMMMMMMZOOOOOOO$7$OOO$7$OOOOOOOZMMMMMMMM
+                      MMMMMOOOOOOOOOOO++7Z7++OOOOOOOOOOOMMMMMM
+                      MMMMOOOOOOOOOOOOZ..:..OOOOOOOOOOOOZMMMMM
+                      MMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMMMM
+                      MMOOOOOOOOOOOOO.........OOOOOOOOOOOOOMMM
+                      M8OOOOOOOOOOOOO.O...O...OOOOOOOOOOOOOOMM
+                      MOOOOOOOOOOOOOO.       .OOOOOOOOOOOOOOMM
+                      DOOOOOOOOOOOOOO.        OOOOOOOOOOOOOOMM
+                      OOOOOOOOOOO.................OOOOOOOOOOZM
+                      OOOOOOOOOOO.               .OOOOOOOOOOOM
+                      OOOOOOOOOOO. ..         .. .OOOOOOOOOOOM
+                      OOOOOOOOOOO. .,         $. .OOOOOOOOOOOM
+                      DOOOOOOOOOO. .,         $. .OOOOOOOOOOMM
+                      MOOOOOOOOOO. .,         $. .OOOOOOOOOOMM
+                      MDOOOOOOOOOIO.,         $.O+OOOOOOOOOOMM
+                      MMOOOOOOOOO,O.,   ..    $.O.OOOOOOOOOMMM
+                      MMMOOOOOOOOOOO,   .O    $OOOOOOOOOOOMMMM
+                      MMMMOOOOOOOOOO,   .O    $OOOOOOOOOZMMMMM
+                      MMMMM8OOOOOOOZ.    O    .OOOOOOOOOMMMMMM
+                      MMMMMMMOOOOOOOOOOOOOOOOOOOOOOOOZMMMMMMMM
+                      MMMMMMMMMOOOOOOOOOOOOOOOOOOOOOMMMMMMMMMM
+                      MMMMMMMMMMMMOOOOOOOOOOOOOOOMMMMMMMMMMMMM
+                      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+
 Five Fast Vim Tips
 ==================
 
@@ -12,14 +44,15 @@ Five Fast Vim Tips
 - :R(model | controller | view | migration | helper | observer...) <name>
 - Create splits by appending S or V
 - Go to File
+- Uses Tim Pope's [rails.vim plugin](https://github.com/tpope/vim-rails)
 
 2) Bounce around fast
-- C-o to bounce back
-- / to find, n to next
-- :linenumber
+- C-o to bounce back one jump
+- / to find, n to keep finding
+- :<linenumber> jumps there
 
 3) Tmux/Turbux/Tslime for fast tests
-- [Blog post describing approach](http://joshuadavey.com/2012/01/10/faster-tdd-feedback-with-tmux-tslime-vim-and-turbux)
+- [Blog post](http://joshuadavey.com/2012/01/10/faster-tdd-feedback-with-tmux-tslime-vim-and-turbux/)
 
 4) Move blocks fast with one command
 - [Vim docs](http://vim.wikia.com/wiki/Moving_lines_up_or_down)
