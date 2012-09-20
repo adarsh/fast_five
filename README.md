@@ -16,14 +16,14 @@ Five Fast Vim Tips
 2) Bounce around fast
 - C-o to bounce back
 - / to find, n to next
-- :<linenumber>
+- :linenumber
 
 3) Tmux/Turbux/Tslime for fast tests
-- Demo
+- [Blog post describing approach](http://joshuadavey.com/2012/01/10/faster-tdd-feedback-with-tmux-tslime-vim-and-turbux)
 
 4) Move blocks fast with one command
-- Demo
+- [Vim docs](http://vim.wikia.com/wiki/Moving_lines_up_or_down)
 
 5) (fast) Change Comes From Within
-- Change Inside Delimiters
-- Change 'Till X
+- Change Inside Delimiters - type c-i-X where X is ", (, [, etc.
+- Change 'Till X - type c-t-X where X is the query character
